@@ -1,0 +1,45 @@
+Project: Investigate Fraud in Enron Emails
+
+Richard Smith
+March 2021
+
+references.txt
+
+References:
+
+/final_project/tester.py
+  Code used in 'test_classifier()' was almost entirely copied for use within
+    poi_id.py, primarily for modification of performance metric output, but
+    also for personal comprehension of the methods used in evaluation of
+    performance and maintaining validation equivalent to grading requirements.
+
+https://medium.com/vickdata/a-simple-guide-to-scikit-learn-pipelines-4ac0d974bdcf
+  For iterating over a list of classifiers to test multiple classifiers in a
+    concise manner, and some examples of GridSearchCV use.
+(if you're denied access to the article, try reopening it in a 'container' tab)
+
+https://zekehochberg.github.io/pipeline-and-gridsearch/
+  For examples of pipeline use.
+
+https://towardsdatascience.com/why-using-a-mean-for-missing-data-is-a-bad-idea-alternative-imputation-algorithms-837c731c1008
+  For methods and drawbacks related to imputation for missing data.
+(as above, if you're denied access to the article, try reopening it in a
+'container' tab)
+
+http://www.stat.columbia.edu/~gelman/arm/missing.pdf
+  Further information on methods and drawbacks related to imputation.
+
+https://tungmphung.com/feature-selection-with-sklearn/
+https://tungmphung.com/information-gain-gain-ratio-and-gini-index/
+  For varieties of feature selection methods in sklearn and a basic comparison
+    of 'Gini' with 'entropy' in DecisionTreeClassifier context.
+
+https://en.wikipedia.org/wiki/Mutual_information
+  For a concise description of mutual information.
+
+https://www.codevscolor.com/python-sort-one-list-using-second-list
+  For sorting two lists by values of first (zip() method code example).
+
+I hereby confirm that this submission is my work. I have cited above the
+origins of any parts of the submission that were taken from Websites, books,
+forums, blog posts, github repositories, etc.

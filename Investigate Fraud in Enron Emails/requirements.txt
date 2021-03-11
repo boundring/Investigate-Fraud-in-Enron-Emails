@@ -1,0 +1,51 @@
+astroid==2.4.2
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+certifi==2020.12.5
+click @ file:///home/linux1/recipes/ci/click_1610990599742/work
+colorama==0.4.3
+cycler==0.10.0
+decorator @ file:///home/ktietz/src/ci/decorator_1611930055503/work
+ipykernel @ file:///C:/ci/ipykernel_1596190155316/work/dist/ipykernel-5.3.4-py3-none-any.whl
+ipython @ file:///C:/apps/conda/conda-bld/ipython_1600362414904/work
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+isort==4.3.21
+jedi==0.16.0
+joblib @ file:///tmp/build/80754af9/joblib_1607970656719/work
+jupyter-client @ file:///C:/Users/bri11091/conda-bld/jupyter_client_1599780818163/work
+jupyter-core @ file:///C:/Users/bri11091/conda-bld/jupyter_core_1595863163509/work
+kiwisolver @ file:///C:/ci/kiwisolver_1604014703538/work
+lazy-object-proxy==1.4.3
+matplotlib @ file:///C:/ci/matplotlib-base_1603355780617/work
+mccabe==0.6.1
+mkl-fft==1.2.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+nltk @ file:///tmp/build/80754af9/nltk_1592496090529/work
+numpy @ file:///C:/ci/numpy_and_numpy_base_1603466732592/work
+olefile==0.46
+pandas @ file:///C:/ci/pandas_1608068219821/work
+parso @ file:///tmp/build/80754af9/parso_1607623074025/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+Pillow @ file:///C:/ci/pillow_1603823068645/work
+prompt-toolkit==3.0.5
+pygame==1.9.6
+Pygments @ file:///C:/Users/bri11091/conda-bld/pygments_1600123308736/work
+pylint==2.5.3
+pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
+python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
+pytz @ file:///tmp/build/80754af9/pytz_1606604771399/work
+pyzmq @ file:///C:/Users/bri11091/conda-bld/pyzmq_1600288036950/work
+regex @ file:///C:/ci/regex_1606691183008/work
+scikit-learn @ file:///C:/ci/scikit-learn_1598377018496/work
+scipy @ file:///C:/ci/scipy_1604596260408/work
+seaborn @ file:///tmp/build/80754af9/seaborn_1608578541026/work
+sip==4.19.13
+six==1.15.0
+threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
+toml==0.10.1
+tornado @ file:///C:/ci/tornado_1606942392901/work
+tqdm @ file:///tmp/build/80754af9/tqdm_1611857934208/work
+traitlets @ file:///home/ktietz/src/ci/traitlets_1611929699868/work
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+wincertstore==0.2
+wrapt==1.12.1
